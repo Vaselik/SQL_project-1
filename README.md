@@ -6,4 +6,4 @@ Main purposes:
 * Focusing in countries count of deaths regarding the people that were affected
 * Join 'Deaths' with 'Vaccinations' tables 
 * Analysing the percentage of vaccianted people
-*
+
